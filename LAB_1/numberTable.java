@@ -1,3 +1,4 @@
+package OOP_Lab_sem3.LAB_1;
 /**
  * numberTable
  */
